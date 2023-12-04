@@ -3,7 +3,7 @@
 
 ![Instagram](https://instagram.com/forever_duh?igshid=OGQ5ZDc2ODk2ZA==)
 
-![Eduh GitHub stats] (https://github-readme-stats.vercel.app/api?username=eduhpaozin&show_icons=true&theme=eduhpaozin)
+![Eduh GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhpaozin&show_icons=true&theme=eduhpaozin)
 
 Linguagens que eu uso 
 
