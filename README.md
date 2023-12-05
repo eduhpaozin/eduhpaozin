@@ -7,4 +7,4 @@
 
 ##Linguagens que uso 
 
-div style="display: inline_block"><br/><imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></div>>
+divstyle="display:inline_block"><br/><imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></div>>
