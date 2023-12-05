@@ -1,12 +1,12 @@
 ### 👾Hi i am Eduardo👾
-### 👾Ola eu sou o Eduardo👾
+### 👾Ola eu sou o Eduardo👾 
 
-[Instagram](https://instagram.com/forever_duh?igshid=OGQ5ZDc2ODk2ZA==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_edusouzasilva/
 
-![Eduh GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhpaozin&show_icons=true&theme=eduhpaozin)
+![Edu GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduhpaozin&show_icons=true&theme=radical) 
 
-Linguagens que eu uso 
+##Linguagens que uso 
 
-<div style="display: inline_block"><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-</div>
+div style="display: inline_block"><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+</div>>
